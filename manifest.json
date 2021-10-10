@@ -1,0 +1,7 @@
+{
+    "name":"PWA spechi tech",
+    "short_name": "PWA",
+    "start_url":".",
+    "background_color":"#eef2ab",
+    "theme_color":"#004535"
+}
