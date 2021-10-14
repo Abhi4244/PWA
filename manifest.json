@@ -4,7 +4,7 @@
     "start_url":"https://abhi4244.gitHub.io/test",
     "background_color":"#eef2ab",
     "theme_color":"red",
-    "display": "standalone",
+    "display": "fullscreen",
     "icons":[
         {
           "src":"images/logo192.png",
