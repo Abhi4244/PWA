@@ -1,9 +1,9 @@
 {
     "name":"PWA spechi tech",
     "short_name": "PWA",
-    "start_url":".",
+    "start_url":"https://abhi4244.gitHub.io/test",
     "background_color":"#eef2ab",
-    "theme_color":"#004535",
+    "theme_color":"red",
     "display": "standalone",
     "icons":[
         {
